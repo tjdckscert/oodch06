@@ -1,0 +1,28 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 2023. 3. 8., 오후 9:29:10
+    Author     : skylo
+*/
+
+.padding_bottom_30px {
+	margin-bottom: 30px;
+}
+
+.box {
+	border: 2px solid;
+	margin: 20px;
+	padding: 10px;
+}
+
+.center {
+	margin: 0 auto;
+	text-align: center; 
+}
+
+li {
+	margin-bottom: 10px;
+}
+
